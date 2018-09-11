@@ -1,4 +1,4 @@
-enp0s31f6 Link encap:Ethernet  HWaddr 0c:9d:92:10:aa:58  
+0s31f6 Link encap:Ethernet  HWaddr 0c:9d:92:10:aa:58  
           inet addr:10.19.125.101  Bcast:10.19.127.255  Mask:255.255.252.0
           inet6 addr: fe80::9221:3e48:cf55:35b3/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
